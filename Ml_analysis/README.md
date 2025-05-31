@@ -15,7 +15,7 @@
 
 * [Логистическая регрессия с несколькими переменными](https://github.com/Alexander-768/Ml_and_EDA_analysis/blob/main/Ml_analysis/Logistic_regression_with_many_variables.ipynb)
 
-Модель логистической регрессии с несколькими переменными переменной 
+Модель логистической регрессии с несколькими переменными  
 
 * [Полноценаая логистическая регрессия](https://github.com/Alexander-768/Ml_and_EDA_analysis/blob/main/Ml_analysis/Logistic_regression.ipynb)
 
